@@ -1,9 +1,9 @@
 nome = "Lucas Marques"
-idade = 32
-cidade = "Canoas"
+idade = 33
+cidade = "Porto Alegre / Canoas"
 profissao = "Estudante de TI"
 
 print("Nome:", nome)
 print("Idade:", idade)
 print("Cidade:", cidade)
-print("Profissão:", profissao)
+print("Profissão:", profissao) 
